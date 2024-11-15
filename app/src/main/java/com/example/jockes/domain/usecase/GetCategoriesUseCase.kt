@@ -1,6 +1,5 @@
 package com.example.jockes.domain.usecase
 
-import com.example.jockes.domain.model.Category
 import com.example.jockes.domain.repository.CategoryRepository
 import javax.inject.Inject
 

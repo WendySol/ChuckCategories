@@ -1,8 +1,6 @@
 package com.example.jockes.di
 
 import com.example.jockes.data.datasource.remote.JokeApi
-import com.example.jockes.data.respository.CategoryRepositoryImpl
-import com.example.jockes.domain.repository.CategoryRepository
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
